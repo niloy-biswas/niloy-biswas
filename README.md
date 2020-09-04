@@ -7,6 +7,7 @@
 - 🥅 I'm also trying to learn Web development using Django.
 - 👯 I’m looking to collaborate on data science and deep learning projects.
 
+<br><br>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=niloy-biswas)
 
