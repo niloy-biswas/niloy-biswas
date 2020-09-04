@@ -7,7 +7,7 @@
 - 🥅 I'm also trying to learn Web development using Django.
 - 👯 I’m looking to collaborate on data science and deep learning projects.
 
-<br><br>
+<br>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=niloy-biswas)
 
@@ -16,7 +16,7 @@
 [<img src = "https://img.shields.io/badge/Quora-%230077B5.svg?&style=for-the-badge&logo">](https://www.quora.com/profile/নিলয়-বিশ্বাস-Niloy-Biswas) 
 
 
-
+<br>
 
 ### Languages and Tools:
 
