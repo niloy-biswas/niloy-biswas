@@ -11,7 +11,11 @@
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=niloy-biswas)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://https://www.linkedin.com/in/niloy--biswas/) [<img src = "https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo">](https://www.kaggle.com/niloyswe) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://https://www.linkedin.com/in/niloy--biswas/) 
+
+[<img src = "https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo">](https://www.facebook.com/Niloy.swe/) 
+
+[<img src = "https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo">](https://www.kaggle.com/niloyswe) 
 [<img src = "https://img.shields.io/badge/Researchgate-%230077B5.svg?&style=for-the-badge&logo">](https://www.researchgate.net/profile/Niloy_Biswas4) 
 [<img src = "https://img.shields.io/badge/Quora-%230077B5.svg?&style=for-the-badge&logo">](https://www.quora.com/profile/নিলয়-বিশ্বাস-Niloy-Biswas) 
 
