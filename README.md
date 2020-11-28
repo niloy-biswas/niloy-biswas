@@ -17,7 +17,7 @@
 [<img src = "https://img.shields.io/badge/Researchgate-%230077B5.svg?&style=for-the-badge&logo">](https://www.researchgate.net/profile/Niloy_Biswas4) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloy-biswas&langs_count=8)](https://github.com/niloy-biswas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloy-biswas&langs_count=5)](https://github.com/niloy-biswas/github-readme-stats)
 
 
 <br>
