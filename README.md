@@ -9,7 +9,7 @@
 
 <br>
 
-![Niloy's github stats](https://github-readme-stats.vercel.app/api?username=niloy-biswas&show_icons=true)
+![Niloy's github stats](https://github-readme-stats.vercel.app/api?username=niloy-biswas&show_icons=true&include_all_commits=true)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://https://www.linkedin.com/in/niloy--biswas/) 
 [<img src = "https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo">](https://www.facebook.com/Niloy.swe/) 
