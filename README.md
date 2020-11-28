@@ -16,6 +16,7 @@
 [<img src = "https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo">](https://www.kaggle.com/niloyswe) 
 [<img src = "https://img.shields.io/badge/Researchgate-%230077B5.svg?&style=for-the-badge&logo">](https://www.researchgate.net/profile/Niloy_Biswas4) 
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?niloy-biswas" frameborder="0"></iframe>
 
 
 <br>
