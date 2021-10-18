@@ -7,7 +7,7 @@
 - 🥅 I'm also trying to learn Web development using Django.
 - 👯 I’m looking to collaborate on data science and deep learning projects.
 
-<br>
+
 
 ![Niloy's github stats](https://github-readme-stats.vercel.app/api?username=niloy-biswas&show_icons=true&include_all_commits=true)
 
@@ -15,6 +15,7 @@
 [<img src = "https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo">](https://www.facebook.com/Niloy.swe/) 
 [<img src = "https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo">](https://www.kaggle.com/niloyswe) 
 [<img src = "https://img.shields.io/badge/Researchgate-%230077B5.svg?&style=for-the-badge&logo">](https://www.researchgate.net/profile/Niloy_Biswas4) 
+<img src = "https://komarev.com/ghpvc/?username=niloy-biswas" alt="niloy-biswas"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloy-biswas&langs_count=5)](https://github.com/niloy-biswas/github-readme-stats)
