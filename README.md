@@ -16,11 +16,9 @@
 - 🥅 Goals: Becoming a world leadning Data Scientist.
 - 📝 Have a look at my [Resume](https://drive.google.com/file/d/1dUMLbH9io0RV3ZZx-NpDD4ltXGqMrhr5/view?usp=sharing) for more details about me. I'm open for any valuable and suggestions!
 
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://https://www.linkedin.com/in/niloy--biswas/) 
-[<img src = "https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo">](https://www.facebook.com/Niloy.swe/) 
-[<img src = "https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo">](https://www.kaggle.com/niloyswe) 
-[<img src = "https://img.shields.io/badge/Researchgate-%230077B5.svg?&style=for-the-badge&logo">](https://www.researchgate.net/profile/Niloy_Biswas4) 
+![age](https://img.shields.io/badge/age-23-blueviolet)
+![focus](https://img.shields.io/badge/focus-DataScience-critical)
+![living](https://img.shields.io/badge/living-Dhaka-3c9)
 <img src = "https://komarev.com/ghpvc/?username=niloy-biswas" alt="niloy-biswas"/>
 
 
@@ -28,16 +26,17 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=niloy-biswas&show_icons=true&hide_border=true&theme=tokyonight&show_icons=true&include_all_commits=true" width="45%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=niloy-biswas&theme=tokyonight&hide_border=true" width="45%" >
+<!-- <img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=niloy-biswas&theme=tokyonight&langs_count=5&hide_border=true" > -->
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloy-biswas&theme=tokyonight&langs_count=5&hide_border=true)](https://github.com/niloy-biswas/github-readme-stats)
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://https://www.linkedin.com/in/niloy--biswas/) 
+[<img src = "https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo">](https://www.facebook.com/Niloy.swe/) 
+[<img src = "https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo">](https://www.kaggle.com/niloyswe) 
+[<img src = "https://img.shields.io/badge/Researchgate-%230077B5.svg?&style=for-the-badge&logo">](https://www.researchgate.net/profile/Niloy_Biswas4) 
 
-
-<br>
-
-### Languages and Tools:
+## 👨‍💻 Languages and Tools
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
 <img align="left" alt="Anaconda" width="26px" src="https://avatars0.githubusercontent.com/u/1158637?s=400&v=4" />
