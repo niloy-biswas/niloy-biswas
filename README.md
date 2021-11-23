@@ -7,7 +7,7 @@
 
 </br>
 
-<img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
+<img width="37%" align="right" alt="Github Image" src="Media/Sideimage2.gif" />
 
 - ⚡ I'm currently working as a Jr. Data Analyst at sheba.xyz
 - 🔭 I’m currently working on Disease classification using Machine Learning technique.
@@ -17,16 +17,16 @@
 - 📝 Have a look at my [Resume](https://drive.google.com/file/d/1dUMLbH9io0RV3ZZx-NpDD4ltXGqMrhr5/view?usp=sharing) for more details about me. I'm open for any valuable and suggestions!
 
 
-
-
-
-![Niloy's github stats](https://github-readme-stats.vercel.app/api?username=niloy-biswas&show_icons=true&include_all_commits=true)
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://https://www.linkedin.com/in/niloy--biswas/) 
 [<img src = "https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo">](https://www.facebook.com/Niloy.swe/) 
 [<img src = "https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo">](https://www.kaggle.com/niloyswe) 
 [<img src = "https://img.shields.io/badge/Researchgate-%230077B5.svg?&style=for-the-badge&logo">](https://www.researchgate.net/profile/Niloy_Biswas4) 
 <img src = "https://komarev.com/ghpvc/?username=niloy-biswas" alt="niloy-biswas"/>
+
+
+
+![Niloy's github stats](https://github-readme-stats.vercel.app/api?username=niloy-biswas&show_icons=true&include_all_commits=true)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloy-biswas&langs_count=5)](https://github.com/niloy-biswas/github-readme-stats)
