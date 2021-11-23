@@ -1,8 +1,9 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 ![](Media/CoverName.gif)
-## Hi there, I'm Niloy  👋
 
-### I'm a Student, Learner, Dreamer, and a Developer
+<h3 align="center">I'm an enthusiastic Learner in Data Science & Machine Learning ❤</h3>  
+
+<p align="center"> Currenty working as a Jr. Data Analyst at sheba.xyz. I'm a Dreamer who loves to watch dream and work hard for make it happen. I'm Looking forward to building a challenging career in the Data Science industry by utilizing my expertise and knowledge gained from years of competitive programming, problem-solving, and academic studies. 🚀 </p>
 
 - 🔭 I’m currently working on Disease classification using Machine Learning technique.
 - 🌱 I’m currently learning more about Deep Learning methods.
