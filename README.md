@@ -1,4 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
+![](Media/CoverName.gif)
 ## Hi there, I'm Niloy  👋
 
 ### I'm a Student, Learner, Dreamer, and a Developer
