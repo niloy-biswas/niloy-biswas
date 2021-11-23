@@ -7,7 +7,7 @@
 
 </br>
 
-<img width="37%" align="right" alt="Github Image" src="Media/Sideimage2.gif" />
+<img width="33%" align="right" alt="Github Image" src="Media/Sideimage2.gif" />
 
 - ⚡ I'm currently working as a Jr. Data Analyst at sheba.xyz
 - 🔭 I’m currently working on Disease classification using Machine Learning technique.
@@ -24,12 +24,14 @@
 <img src = "https://komarev.com/ghpvc/?username=niloy-biswas" alt="niloy-biswas"/>
 
 
+## 🏆 Github Status
 
-![Niloy's github stats](https://github-readme-stats.vercel.app/api?username=niloy-biswas&show_icons=true&include_all_commits=true)
+<img  src="https://github-readme-stats.vercel.app/api?username=niloy-biswas&show_icons=true&hide_border=true&theme=tokyonight&show_icons=true&include_all_commits=true" width="45%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=niloy-biswas&theme=tokyonight&hide_border=true" width="45%" >
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloy-biswas&langs_count=5)](https://github.com/niloy-biswas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloy-biswas&theme=tokyonight&langs_count=5&hide_border=true)](https://github.com/niloy-biswas/github-readme-stats)
 
 
 
