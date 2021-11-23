@@ -5,10 +5,18 @@
 
 <p align="center"> Currenty working as a Jr. Data Analyst at sheba.xyz. I'm a Dreamer who loves to watch dream and work hard for make it happen. I'm Looking forward to building a challenging career in the Data Science industry by utilizing my expertise and knowledge gained from years of competitive programming, problem-solving, and academic studies. 🚀 </p>
 
+</br>
+
+<img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
+
+- ⚡ I'm currently working as a Jr. Data Analyst at sheba.xyz
 - 🔭 I’m currently working on Disease classification using Machine Learning technique.
 - 🌱 I’m currently learning more about Deep Learning methods.
-- 🥅 I'm also trying to learn Web development using Django.
 - 👯 I’m looking to collaborate on data science and deep learning projects.
+- 🥅 Goals: Becoming a world leadning Data Scientist.
+- 📝 Have a look at my [Resume](https://drive.google.com/file/d/1dUMLbH9io0RV3ZZx-NpDD4ltXGqMrhr5/view?usp=sharing) for more details about me. I'm open for any valuable and suggestions!
+
+
 
 
 
