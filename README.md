@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 ![](Media/CoverName.gif)
 
 <h3 align="center">I'm an enthusiastic Learner in Data Science & Machine Learning ❤</h3>  
@@ -30,12 +29,6 @@
 
 
 
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://https://www.linkedin.com/in/niloy--biswas/) 
-[<img src = "https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo">](https://www.facebook.com/Niloy.swe/) 
-[<img src = "https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo">](https://www.kaggle.com/niloyswe) 
-[<img src = "https://img.shields.io/badge/Researchgate-%230077B5.svg?&style=for-the-badge&logo">](https://www.researchgate.net/profile/Niloy_Biswas4) 
-
 ## 👨‍💻 Languages and Tools
 
 <div align="center">
@@ -56,6 +49,40 @@
 <img alt="GitHub" width="40px" height = "40px" src="https://www.pinclipart.com/picdir/big/36-367455_github-for-hosting-the-code-and-tracking-issues.png" />
 <img alt="Trello" width="40px" height = "40px" src="https://i.imgur.com/yBHwdqa.png" />
 <img alt="Metabase" width="40px" height = "40px" src="https://mellowhost.com/images/metabase_2.png" />
+
+</div>
+<br /> <br />
   
-<br />
-<br />
+### 💬 My Stacks
+
+```json
+{
+  "Languages and Frameworks": ["Python", "Django", "OpenCV", "PHP", "C#", "C (basic)", "HTML", "CSS", "Bootstrap"],
+  "Data-Science": {
+    "Predictive Analysis & Algorithm Development": ["Scikit-Learn"],
+    "Data Visualization": ["Pandas", "Matplotlib", "Seaborn"],
+    "Machine Learning": ["Statistical Analysis", "Linear/Logistic Regression","Clustering"],
+    "Deep Learning": ["Keras", "TensorFlow", "Computer Vision", "Transfer Learning"],
+    "Data Annotation": ["LabeIlmg","Labelme"]
+  },
+  "Database": ["MySQL", "SQL","PostgreSQL"],
+  "Operating System": ["Linux","Windows", "Android"],
+  "Tools": ["Jupyter Notebook","PyCharm","Visual Code","Adobe Photoshop"]
+}
+```
+
+<div align="center">
+
+### Also find me in - 
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://https://www.linkedin.com/in/niloy--biswas/) 
+[<img src = "https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo">](https://www.facebook.com/Niloy.swe/) 
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=niloy.swe@gmail.com)
+[<img src = "https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo">](https://www.kaggle.com/niloyswe) 
+[<img src = "https://img.shields.io/badge/Researchgate-%230077B5.svg?&style=for-the-badge&logo">](https://www.researchgate.net/profile/Niloy_Biswas4) 
+  
+<div/>
+
+
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
