@@ -57,7 +57,7 @@
 
 ```json
 {
-  "Languages and Frameworks": ["Python", "Django", "OpenCV", "PHP", "C#", "C (basic)", "HTML", "CSS", "Bootstrap"],
+  "Languages and Frameworks": ["Python", "Django", "OpenCV", "PHP", "C (basic)", "HTML", "CSS", "Bootstrap"],
   "Data-Science": {
     "Predictive Analysis & Algorithm Development": ["Scikit-Learn"],
     "Data Visualization": ["Pandas", "Matplotlib", "Seaborn"],
