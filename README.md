@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on Disease classification using Machine Learning technique.
 - 🌱 I’m currently learning more about Deep Learning methods.
 - 👯 I’m looking to collaborate on data science and deep learning projects.
-- 🥅 Goals: Becoming a world leadning Data Scientist.
+- 🥅 Goals: Becoming a world leadning Data Scientist in the next 5 years.
 - 📝 Have a look at my [Resume](https://drive.google.com/file/d/1dUMLbH9io0RV3ZZx-NpDD4ltXGqMrhr5/view?usp=sharing) for more details about me. I'm open for any valuable suggestions!
 
 ![age](https://img.shields.io/badge/age-23-blueviolet)
