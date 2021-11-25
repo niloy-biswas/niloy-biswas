@@ -67,7 +67,7 @@
   },
   "Database": ["MySQL", "SQL","PostgreSQL"],
   "Operating System": ["Linux","Windows", "Android"],
-  "Tools": ["Jupyter Notebook","PyCharm","Visual Code","Adobe Photoshop"]
+  "Tools": ["Metabase", "Data Studio", "Jupyter Notebook","PyCharm","Visual Code","Adobe Photoshop"] 
 }
 ```
 
