@@ -6,9 +6,9 @@
 
 </br>
 
-<img width="33%" align="right" alt="Github Image" src="Media/Sideimage2.gif" />
+<img width="36%" align="right" alt="Github Image" src="Media/Sideimage2.gif" />
 
-- ⚡ I'm currently working as a Jr. Data Analyst at sheba.xyz
+- ⚡ I'm currently working as a Business Intelligence Analyst at 10 Minute School.
 - 🔭 I’m currently working on Disease classification using Machine Learning technique.
 - 🌱 I’m currently learning more about Deep Learning methods.
 - 👯 I’m looking to collaborate on data science and deep learning projects.
