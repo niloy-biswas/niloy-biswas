@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm an enthusiastic Learner in Data Science & Machine Learning ❤</h3>  
 
-<p align="center"> Currenty working as a Jr. Data Analyst at sheba.xyz. I'm a Dreamer who loves to watch dream and work hard for make it happen. I'm Looking forward to building a challenging career in the Data Science industry by utilizing my expertise and knowledge gained from years of competitive programming, problem-solving, and academic studies. 🚀 </p>
+<p align="center"> Currenty working as a Business Intelligence Analyst at 10 Minute School. I'm a Dreamer who loves to watch dream and work hard for make it happen. I'm Looking forward to building a challenging career in the Data Science industry by utilizing my expertise and knowledge gained from years of competitive programming, problem-solving, and academic studies. 🚀 </p>
 
 </br>
 
