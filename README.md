@@ -15,7 +15,7 @@
 - 🥅 Goals: Becoming a world leadning Data Scientist in the next 5 years.
 - 📝 Have a look at my [Resume](https://drive.google.com/file/d/1dUMLbH9io0RV3ZZx-NpDD4ltXGqMrhr5/view?usp=sharing) for more details about me. I'm open for any valuable suggestions!
 
-![age](https://img.shields.io/badge/age-23-blueviolet)
+![age](https://img.shields.io/badge/age-25-blueviolet)
 ![focus](https://img.shields.io/badge/focus-DataScience-critical)
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
 <img src = "https://komarev.com/ghpvc/?username=niloy-biswas" alt="niloy-biswas"/>
@@ -60,17 +60,19 @@
 
 ```json
 {
-  "Languages and Frameworks": ["Python", "Django", "OpenCV", "PHP", "C (basic)", "HTML", "CSS", "Bootstrap"],
+  "Languages and Frameworks": ["Python", "OpenCV","C (basic)", "HTML", "CSS", "Bootstrap"],
+  "Database": ["MySQL", "SQL","PostgreSQL"],
+  "Data Warehouse, ETL": ["GCP", "Airbyte"],
+  "Automation & Web Scraping": ["Selenium", "Scrapy"],
   "Data-Science": {
     "Predictive Analysis & Algorithm Development": ["Scikit-Learn"],
-    "Data Visualization": ["Pandas", "Matplotlib", "Seaborn"],
+    "Data Visualization": ["Pandas", "Matplotlib", "Seaborn", "Data Studio", "Tableau"],
     "Machine Learning": ["Statistical Analysis", "Linear/Logistic Regression","Clustering"],
     "Deep Learning": ["Keras", "TensorFlow", "Computer Vision", "Transfer Learning"],
-    "Data Annotation": ["LabeIlmg","Labelme"]
   },
-  "Database": ["MySQL", "SQL","PostgreSQL"],
-  "Operating System": ["Linux","Windows", "Android"],
-  "Tools": ["Metabase", "Data Studio", "Jupyter Notebook","PyCharm","Visual Code","Adobe Photoshop"] 
+
+  "Operating System": ["Linux", "Mac", "Windows", "Android"],
+  "Tools": ["BigQuery", "GCP", "Metabase", "Data Studio", "Jupyter Notebook","PyCharm","Visual Code"] 
 }
 ```
 
