@@ -2,13 +2,13 @@
 
 <h3 align="center">I'm an enthusiastic Learner in Data Science & Machine Learning ❤</h3>  
 
-<p align="center"> Currenty working as a Business Intelligence Analyst at 10 Minute School. I'm a Dreamer who loves to watch dream and work hard for make it happen. I'm Looking forward to building a challenging career in the Data Science industry by utilizing my expertise and knowledge gained from years of competitive programming, problem-solving, and academic studies. 🚀 </p>
+<p align="center"> Currenty working as a Sr. Business Intelligence Analyst at 10 Minute School. I'm a Dreamer who loves to watch dream and work hard for make it happen. I'm Looking forward to building a challenging career in the Data Science industry by utilizing my expertise and knowledge gained from years of competitive programming, problem-solving, and academic studies. 🚀 </p>
 
 </br>
 
 <img width="33%" align="right" alt="Github Image" src="Media/Sideimage2.gif" />
 
-- ⚡ I'm currently working as a Business Intelligence Analyst at 10 Minute School.
+- ⚡ I'm currently working as a Sr. Business Intelligence Analyst at 10 Minute School.
 - 🔭 I’m currently working on Disease classification using Machine Learning technique.
 - 🌱 I’m currently learning more about Deep Learning methods.
 - 👯 I’m looking to collaborate on data science and deep learning projects.
@@ -34,11 +34,12 @@
 <div align="center">
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+[![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-%232176F3.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery)
+[![Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-%233366FF.svg?style=for-the-badge&logo=datastudio&logoColor=white)](https://datastudio.google.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -50,6 +51,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+[![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
@@ -62,7 +64,7 @@
 {
   "Languages and Frameworks": ["Python", "OpenCV","C (basic)", "HTML", "CSS", "Bootstrap"],
   "Database": ["MySQL", "SQL","PostgreSQL"],
-  "Data Warehouse, ETL": ["GCP", "Airbyte"],
+  "Data Warehouse, ETL": ["Google BigQuery" ,"GCP", "Airbyte"],
   "Automation & Web Scraping": ["Selenium", "Scrapy"],
   "Data-Science": {
     "Predictive Analysis & Algorithm Development": ["Scikit-Learn"],
