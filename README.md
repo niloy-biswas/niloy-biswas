@@ -1,4 +1,4 @@
-![](Media/CoverName.gif)
+![](Media/CoverName.png)
 
 <h3 align="center">I'm an enthusiastic Learner in Data Science & Machine Learning ❤</h3>  
 
