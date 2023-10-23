@@ -14,6 +14,7 @@
 - 👯 I’m looking to collaborate on data science and deep learning projects.
 - 🥅 Goals: Becoming a world-leading Data Scientist in the next 5 years.
 - 📝 Have a look at my [Resume](https://drive.google.com/file/d/1dUMLbH9io0RV3ZZx-NpDD4ltXGqMrhr5/view?usp=sharing) for more details about me. I'm open to any valuable suggestions!
+- 🕹️ Check out my [Personal Website](https://niloy.tech/) for more details about me.
 
 ![age](https://img.shields.io/badge/age-25-blueviolet)
 ![focus](https://img.shields.io/badge/focus-DataScience-critical)
