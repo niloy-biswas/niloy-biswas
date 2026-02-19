@@ -1,22 +1,20 @@
 ![](Media/CoverName.png)
 
-<h3 align="center">I'm an enthusiastic Learner in Data Science & Machine Learning ❤</h3>  
+<h3 align="center">I'm an enthusiastic Learner in Data Science, Machine Learning & AI ❤</h3> 
 
-<p align="center"> Currently working as a Sr. Business Intelligence Analyst at 10 Minute School. I'm a Dreamer who loves to watch dreams and work hard to make it happen. I'm Looking forward to building a challenging career in the Data Science industry by utilizing my expertise and knowledge gained from years of competitive programming, problem-solving, and academic studies. 🚀 </p>
+<p align="center"> Currently working as a <b>Specialist - Business Intelligence Analyst</b> at 10 Minute School. With 4+ years of experience in data analytics, machine learning, and automation, I focus on data-driven systems and AI applications. I'm a Dreamer who loves to watch dreams and work hard to make them happen. I'm looking forward to formalizing my years of practical engineering experience through rigorous academic training in advanced data science and artificial intelligence research. 🚀 </p>
 
 </br>
 
 <img width="33%" align="right" alt="Github Image" src="Media/Sideimage2.gif" />
 
-- ⚡ I'm currently working as a Sr. Business Intelligence Analyst at 10 Minute School.
-- 🔭 I’m currently working on Disease classification using Machine Learning techniques.
-- 🌱 I’m currently learning more about Deep Learning methods.
-- 👯 I’m looking to collaborate on data science and deep learning projects.
-- 🥅 Goals: Becoming a world-leading Data Scientist in the next 5 years.
+- ⚡ I'm currently working as a Specialist - Business Intelligence Analyst at 10 Minute School.
+- 🔭 I’m currently working on building multi-model AI agents using RAG, hybrid vector search, and scalable data infrastructure.
+- 🌱 I’m currently diving deeper into LLM Orchestration (LangGraph, n8n, Dify) and Advanced AI/Deep Learning techniques.
+- 👯 I’m looking to collaborate on AI applications, deep learning (Computer Vision), and robust data engineering (ETL) projects.
 - 🕹️ Check out my [Personal Website](https://niloy.tech/) for more details about me.
 - 📝 Have a look at my [Resume](https://drive.google.com/file/d/1dUMLbH9io0RV3ZZx-NpDD4ltXGqMrhr5/view?usp=sharing) for more details about me. I'm open to any valuable suggestions!
 
-![age](https://img.shields.io/badge/age-25-blueviolet)
 ![focus](https://img.shields.io/badge/focus-DataScience-critical)
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
 <img src = "https://komarev.com/ghpvc/?username=niloy-biswas" alt="niloy-biswas"/>
@@ -33,7 +31,7 @@
 ## 👨‍💻 Languages and Tools
 
 <div align="center">
-  
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 [![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-%232176F3.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery)
 [![Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-%233366FF.svg?style=for-the-badge&logo=datastudio&logoColor=white)](https://datastudio.google.com/)
