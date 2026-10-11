@@ -22,7 +22,9 @@
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=niloy-biswas&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" width="45%" align="right" >
+<!-- <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=niloy-biswas&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" width="45%" align="right" > -->
+<img  src="https://github-readme-stats.vercel.app/api?username=niloy-biswas&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" width="45%" align="right" >
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niloy-biswas&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true) -->
 <img  src="https://streak-stats.demolab.com/?user=niloy-biswas&theme=tokyonight&hide_border=true" width="45%" >
 <!-- <img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=niloy-biswas&theme=tokyonight&langs_count=5&hide_border=true" > -->
 
